@@ -1,2 +1,3 @@
+#ddd
 org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
 com.rubin.thrift.autoconfig.ThriftAutoConfiguration
